@@ -59,5 +59,5 @@ export default App;
 //task
 //create an array of object and display data (try map here)
 //create a object and update data(property) in it and display data
-//diffing algo
+//diffing algorithm
 //recoincilation process
